@@ -1,9 +1,4 @@
 # 🧠 Summurai — AI-Powered Chrome Extension for Smarter Learning
-
-### Team Members
-
-**Rodrick Vyizigiro**, **Arsen Madi**, **Arshia Adamian**, **Nazanin Mohsenimehr**, **Berenice**, **Sukhraj Sahndler**
-
 ---
 
 ## 🎯 Problem
@@ -140,15 +135,6 @@ By giving students instant understanding, it turns passive material into interac
 Because learning hubs should be **for learning**, not **just storage**.
 
 ---
-
-## 👥 Team Summurai
-
-- **Rodrick Vyizigiro** — Product Manager / Developer
-- **Arsen Madi** — Frontend Developer
-- **Arshia Adamian** — AI Integration & Testing
-- **Nazanin Mohsenimehr** — UX / UI Design
-- **Berenice** — Research & Documentation
-- **Sukhraj Sahndler** — Backend & Extension Logic
 
 ---
 
