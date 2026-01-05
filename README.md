@@ -141,5 +141,4 @@ Because learning hubs should be **for learning**, not **just storage**.
 ## 📜 License
 
 MIT License © 2025  
-Created for **BCIT Hackathon 2025**  
-Team Summurai 🚀
+Created for **Arsen Madi**
